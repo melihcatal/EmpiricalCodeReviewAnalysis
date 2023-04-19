@@ -1,0 +1,1 @@
+public boolean METHOD_1 ( ) { return METHOD_2 ( VAR_1 class ) || METHOD_3 ( METHOD_4 ( ) , VAR_1 class ) ; }
