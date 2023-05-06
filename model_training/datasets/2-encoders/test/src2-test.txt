@@ -1,0 +1,831 @@
+Can _CODE_
+The String VAR_1 parameter removed
+I trying get rid checks dont save large amount work No need check whether logging enabled theres work inside function
+Why VAR_3 unused Isnt thing every iteration
+Since please change long primitive type
+Unused parameter maybe consistent confusing
+wburns I dont think handle correctly scenario passivation disabled In case entries memory subset entries disk I think rather use store instead memory operations
+We dont use methods
+METHOD_8 VAR_3
+Spaces around
+Another area TYPE_1 unboxing may needed
+Wondering static import TYPE_3 method
+For VAR_1rror VAR_2 stack tracVAR_1 alrVAR_1ady quiVAR_1t wantVAR_1d suggVAR_1stion VAR_2VAR_1rrorVAR_1gVAR_1tLocalizVAR_1dMVAR_1ssagVAR_1 VAR_1
+Can write curly braces block instead 1 line
+No need bundles0 new TYPE_4
+Thinking aloud might race condition METHOD_2 method false thread adding listener true thread running solver But everyone register listener starting solver ok
+Java supports covariant return types make method return VAR_5 without breaking type safety interface Would easier eye
+This nit test might occasionally fail since time taken two different points might resolve different seconds
+Useless blank line
+Ditto mutex
+Please also swap two lines laughing
+I think 0 since value list item 1One work
+This shouldnt necessary The fragment get VAR_2 activity
+No need use _CODE_
+This int
+This switch reduced follows java case 0 case 1 return _CODE_ case INT_1 case INT_2 return _CODE_
+TYPE_3
+dont set fields call save
+Prefer using general interface class captures intent properly left hand side long way saying VAR_12
+Why closerregisterclose
+I would prefer way _CODE_ VAR_4 _CODE_ else VAR_5
+Remove redundant assertion similar ones
+You dont need METHOD_1 _CODE_ checks null arguments
+I dont think need well verify
+While I denying setter confusing scope _CODE_ change
+instead could _CODE_ _CODE_
+method probably final Also missing Override annotation _CODE_
+I think line inside try block well guarantee VAR_1 always closed Or alternatively may first line order matter
+nan
+Il manque une ligne vide
+If going need sychronize If indicate threadsafe
+I noticed concatenate 2 properties need Maybe VAR_2 would enough distinguish server controller keys
+VAR_1 nullable
+Are multithreading issues Can two threads accessing root Archive object
+Missing _CODE_ method
+It would nice tests estimated birthdate ie patient less 2yrs old also one ensures validation passes valid VAR_8 start date birth date estimated
+use VAR_1 directly
+This variable useless cases I would rather pass new TYPE_4 log method directly
+Maybe check null first
+Youll need make VAR_3 VAR_4 VAR_5 final
+shouldnt need previous check Normally use _CODE_ check null
+Ok discussed _CODE_ lets drop support indexsensitive projections restore later maybe
+Instead making protected would make _CODE_ protected
+Did mean _CODE_
+Just detail I would probably created private maybe make sense even public sure _CODE_ VAR_1 Object value put logic common method
+_CODE_ VAR_3 message better METHOD_5
+could replace impl call _CODE_ VAR_1
+These two lines dead code
+_CODE_ highlevel setters expose commaseparated lists If client _really_ wants use always use lowlevel setter But I would like see setter variable string arguments String allows specifying values easily hardcode use array thats hand
+This test logic wrong looks copypasted If already check value null theres reason check something else I suspect meant _CODE_ original test VAR_10
+Should sysout
+Please convert tabs spaces Can converted Java 7 trywithresources
+Given already use METHOD_4 _CODE_ instead _CODE_ variants couldnt write MAX_VALUE directly avoid boolean
+use _CODE_
+VAR_2 removed _CODE_
+need cast
+Rename parameter VAR_4 well
+shouldnt necessary point I wrong
+please use _CODE_ get rid default noarg constructor see
+This called general indexes unique index population synchronous
+Return empty list _CODE_ null VAR_12 null
+This test know argument pass never null _CODE_ enough
+kill
+Just change _CODE_ null _CODE_ MediaUtilsTYPE_FILE get rid VAR_4
+I think asserting header sort relying behavior ReactiveOAuth2ResourceServerAutoConfiguration test doesnt need know I might enough assert context doesnt bean _CODE_ _CODE_
+METHOD_2
+WVAR_6 usVAR_6 multicatch hVAR_6rVAR_6 wVAR_6 alrVAR_6ady pursuit modVAR_6rn stylVAR_6 smilVAR_6 multicatch Also pay attVAR_6ntion TYPE_3 cast rVAR_6dundant Plus lambdas wVAR_6 dont nVAR_6VAR_6d final passVAR_6d variablVAR_6s So block bVAR_6 simplifiVAR_6d privatVAR_6 void _CODE_ VAR_1 _CODE_ VAR_2 VAR_1rVAR_6cVAR_6ivVAR_6VAR_2QuVAR_6uVAR_67 try VAR_1sVAR_6ndVAR_2gVAR_6tJMSRVAR_6plyTo VAR_5 VAR_2 catch TYPE_4 TYPE_5 VAR_6
+en profiter pour enlever cette variable intermédiaire
+suggestion _CODE_ VAR_2
+Do need become public looks like new public one
+You need swap order nullcheck _CODE_ otherwise lead _CODE_ _CODE_ returns null sure thats possible validator fail
+Optional use _CODE_ prevent _CODE_ second operator null
+Would bettereasier TYPE_1 createdadded constructor setget Could try
+Please move VAR_1 arguments
+Nit might better call _CODE_ id _CODE_ vice versa
+Again use static constructor In case _CODE_ _CODE_
+VAR_2 never null called _CODE_ original object one line We probably want cast String instead calling _CODE_
+know super anal could add space Named
+VAR_1 TYPE_1 int still null theory Maybe worth keeping old line change VAR_1 TYPE_1 int
+This similar change class also _CODE_ violations since access lessened Again apparent usages also apparent need change
+Could use final VAR_2 VAR_1 please
+This change VAR_3 vector passed please dont Simple java thisorigin VAR_3 VAR_4 thisVAR_3nor suffice Same _CODE_
+replace VAR_4 false
+What making protected instead mock subclass _CODE_ part public _CODE_ might want make public would public _CODE_ change
+nit explicit cast necessary
+No need check whether VAR_1 null
+Youre testing two completely separate features class 1 closing environment 2 converting environment string There two separate test methods This antipattern sometimes called Test
+Ok test separate branch works without code changes I believe revert _CODE_ I enrich test use package private things add commit onto _CODE_
+concatening strings needed _CODE_ This gives result return VAR_1 _ VAR_2 Furthermore even avoids nullpointerexception example VAR_2 null never particular case
+It makes sense propagate exception instead silently ignoring Otherwise return information checked way Thus caller would never sure result METHOD_1 correct internal error
+exception VAR_1 METHOD_5 VAR_1 configuration done right METHOD_5 called
+Double assignment VAR_8 bad style _CODE_ implicit concatenating String Just use _CODE_ _CODE_ requestVAR_8 String VAR_8 _CODE_ null null VAR_8 _CODE_
+suggestion return _CODE_ _CODE_
+Instead boolean use Testexpected _CODE_ thats universally accepted way testing exception thrown
+remove line
+Object attribute never null You skip part value attribute null
+_CODE_ get property false default conversion
+_CODE_ instances _CODE_ reused METHOD_2 seems useless
+This wont work storage VAR_6 Jackson serializable You use _CODE_ feature inject However Im sure even needed See VAR_6s example Or since goal include VAR_5 pass directly Though VAR_5 really needed group scan sub scan already copy
+I understand _CODE_ issue removed thistarget null
+This could use new parameterized support m4
+Why needed Storing context later use good idea general
+Damn autoboxing A _CODE_ would make findbugs happy And cleaner still VAR_13 Boolean object true well _CODE_ case
+Can fix typo
+You dont need else clause redundant return null
+The
+loader also checked nonnull follows similar paradigm client This way call METHOD_1 mains exception block case initialize fails initializing loader reason logic thereby make sure initialized client connection gets METHOD_1d leaked
+Im sure need Classes Methods Why registering _CODE_ iterate members Trees You 2 cases handle Its _CODE_ necessarily field already declaration And cases absolutely dont need rely _CODE_ method Its _CODE_ method everything need check parameters already Its something else inner class instance nothing
+I make sense expose public method mark Deprecated I suspect packageprivate
+Do need VAR_1 VAR_2 _CODE_ fixed VAR_1 _CODE_ VAR_2 used differentiate log lines different classes Also _CODE_ print component name anywhere log line
+The Override line
+Do way around safer _CODE_
+I think renamed METHOD_2 since type passed anymore
+unneeded cast
+Declare abstract default implementation override subclasses _CODE_ always contains resource _CODE_ contains one depending type _CODE_ never contains resource
+Interface appended variable name
+nmirasch one thing I would change TYPE_1 raw type TYPE_1Button move three lines _CODE_ methods
+Maybe little overkill
+We dont need finally block If Exceptions thrown _CODE_ either
+final
+If look hint lightbulbs _CODE_ see cluster four constructor calling overrideable methods constructor This something see books like Java Concurrency Practice Effective Java details The short story class final calling methods might redefined subclasses properly constructed yet This thread safe The solution use two part construction something easily 1 Make constructor private This needs done anyway since class singleton Allowing classes package construct instance class breaks singleton pattern 2 Move calls overrideable methods private init method call whatever like 3 Call init method _CODE_ object fully constructed
+Its bad idea pass objects fragments arguments TYPE_4 system use arguments recreating fragment config changes user leaves returns app
+Just slight naming change please Im concise writing METHOD_1 bit cryptic How calling METHOD_2 instead This makes clearer method supposed context calling code
+I dont think VAR_4 ever thrown method
+Java lets drop throws arguments implemented methods implemented method doesnt throw exception could drop throws want would still compile ok
+Wrong formatting whole method Please fix
+Same I dont think throwing _CODE_ instead empty implementations
+You write directly _CODE_ Same places static imports
+We dont need reuse code create temporary table rename Instead create table directly Lets add new method _CODE_ extract method _CODE_ _CODE_ _CODE_ construction inside Base_CODE_beginWriteTable
+Whats variable
+minor make static
+Why declaration initialization splitted
+_CODE_ used places Oskari No biggie heads
+Why method parameterized
+jomarko If nothing preventing move _CODE_ inside METHOD_7
+copied offers class make sure dont duplicate Maybe give new home another class
+Wouldnt _CODE_ _CODE_ better communicate expectation I realize input needs changed
+dont swallow exception METHOD_3
+Maybe could shorten error warning _CODE_
+olivergondza noted commit public testing
+Default methods going port backward past 20 since default methods Java 8 feature To work Java 7 youd make abstract class Im sure worth change since quite things likely change backporting For example _CODE_ introduced _CODE_ 11 _CODE_ introduced _CODE_ 20 Removing wont trivial means probably going need separate _CODE_ older branches
+Please annotate parameter Nullable
+could _CODE_
+This change omits segments whose total replicants 0 I think shouldnt change behavior
+similar new line formatting parameters method header mentioned put new line _CODE_ another last looks bit neater easier read
+Since braces missing _CODE_ b btw formatting little wink ___ However I think behavior change Previously VAR_3 commented method exits Now VAR_3 commented block evaluates false however else block else VAR_3 instanceof VAR_11 still executed shouldnt I personally love guard clauses ___imo___ note imo bold italic wink java _CODE_ return VAR_5 VAR_3 instanceof If VAR_3 commented early exit done If real logic ___ Please fix bowtie
+change sig TYPE_2 VAR_1
+Do getters need public I think except _CODE_ others default package access
+I believe one reasons constr avoid people creating new objects reusing class selectors caching instance calling _CODE_ every time _CODE_ called selector Can use _CODE_ instead adding new constr
+reason use allocatorid name places makes harder follow logs dont know id corresponds name
+You dont really need null check using _CODE_ enough true return _CODE_ otherwise continue METHOD_2 This important case decide handle null values differently wont fix places
+If method doesnt throw TYPE_4 please remove
+Nothing harmful null check done twice
+So trim validate dont trim assigning variables Either trim trim
+Is gone Why
+Since override equals youll need also override _CODE_ _CODE_ _CODE_ intellij plugin give warning dont override While typing I noticed _CODE_ flagged issue
+Just change code always use virtual keyspaces scheme isnt valid longer
+I think dont need change We similar structure _CODE_ dont override METHOD_1 logic
+Missing btn2click VAR_1 case
+suggestion assertEquals16 result
+Maybe remove always want true false end generating Episode 1 candidate Episode 1 regardless actually different brands
+VAR_4 VAR_2 Remove variable TYPE_3 VAR_2 closerregistertargetFilenewTYPE_3
+If want correct style please send another _CODE_ It hard identify changes required unixsocket support
+Please preserve indentation existed previously order help readability _CODE_ autoformatters reformat security configuration ofter enclose configuration formatteroff formatteron Similarly configurations
+replace clumsy way Instead METHOD_1 take string Thatll also satisfy sick people VAR_1 code tabs
+This link name doesnt declared You use corresponding value within statement
+You dont need VAR_3 You extract equivalent symbol VAR_2 directly method METHOD_5
+Can check avoided using polymorphism
+Something permethod needs assign null VAR_1
+Id prefer VAR_9 last printed stuff
+_CODE_ Keep options sorted alphabetically
+I think VAR_1 variable could omitted used
+wezell missing return statement This breaking compiling code
+From _CODE_ javadoc Returns current VAR_1 initializes default link _CODE_ _CODE_ null The second part sentence longer true Id simply write return current TYPE_1 instance nothing else
+I guess _getDataSetQueryHelper_ duplicated
+I dont think TYPE_1YPE_1 extends TYPE_1YPE_2 needed TYPE_1YPE_1 enough
+passed constructor used
+Should also simple enough bear mind blocks without braces evil
+Guessing wanted argument int If METHOD_2 unneeded
+Why catching logging
+As pull request _dev_ _dev_ Java 78 please combine catch using multicatch statement
+Just want ask whether public purpose _ElementDefinition_ class protected
+Explicit type argument TYPE_3 replaced
+Is null check passed date required safety
+system please use tracing
+Unused
+_CODE_ Severity _CODE_ Move start call another method rule
+Please remove TYPE_3 throws clause
+Im also missing brackets comply normal code style
+calling valuesource throw need split two lines variable initialization retrieving sourcethe latter inside try block
+Do need nonmap accesses inside critical section Some may also take locks
+I think check _CODE_ better tests look like family
+Speaking access modifiers could probably package private called constructing key graph
+Could remove Error message VAR_3 message give VAR_3ger exception
+Whats Does always create _CODE_ clients
+Da die VAR_1 ja unser _CODE_ ist würde ich hier lieber keine TYPE_1 reingeben sondern die reinen Daten sodass wir eine absolute Kopplung der beiden Klassen vermeiden
+Clearly
+protected
+Add _CODE_ use response arent sideeffects
+need create set
+You run thread call severserve method blocking
+suggestion assertTrueclientId1 VAR_5
+The VAR_7 variable need could simply return VAR_7Builderbuild
+Just seeing line might theoretical problem VAR_8 _CODE_ might unique might get collisions Not sure real problem theory exists Assuming pool class performance reasons ensure one instance exists compare two _CODE_ later simple We could use _CODE_ VAR_3 We would always temporarily new instance VAR_3 return one _CODE_ exists Then _CODE_ takes care potential collisions
+create setter height changed outside
+interceptor VAR_1 removed
+Hoe kan hij hier komen als de input al een TYPE_1
+final please
+typo checking VAR_1 null calling method VAR_2
+Wat als deze leeg Kan je niet beter _CODE_ teruggeven
+Why
+add group conditions clarity
+Could avoided removing _CODE_ break mentioned earlier
+try TYPE_2 VAR_1 catch TYPE_5 VAR_2 rVAR_2turn falsVAR_2 much morVAR_2 slowVAR_2r VAR_2asy rVAR_2ad comparVAR_2d using instancVAR_2Of opVAR_2rator would suggVAR_2st hVAR_2rVAR_2 usVAR_2 instancVAR_2Of TYPE_2 instVAR_2ad This also appliVAR_2s ArrayValuVAR_2 VAR_2quals
+This moved outside containing bit simpler logic
+Is call mandatory You storing METHOD_2 value computing next line
+Hmm explanation optional protobuf This means better way would set explanation rather set empty string
+I believe problem addressed Metadata implementation Negative time values converted given _CODE_ could null result exception
+Formatting use 4space tabulation files
+Do need logging Maybe least decrease logging level debug doesnt pollute logs tests run
+change packageprivate access
+vilchikelena Why make constructor call third one
+long
+probably better change String VAR_9 _CODE_ VAR_9 _CODE_ else VAR_9 _CODE_
+нет смысла возвращать результат в колбек если метод синхронный Возвращай результат из метода
+Cosmetic Could please bump curly brace new line
+releases VAR_1 TYPE_2 thrown
+Spaces around missing
+Just curious made add method And already way make protected
+Just detail param could TYPE_1
+benzonico _CODE_ makes wonder rule implemented semantic subscription Are applying strategy rewrite non semantic visitors rules If least lets modify test _CODE_ String lines
+need judge null
+These three lines redundant lines 291293
+4 spaces
+Just name list
+Its advisable use narrowing operation ensure _CODE_ int overflow Java int There numerous emails _CODE_ past happy dig one want explanation
+_CODE_ Map
+add nullable annotation
+maybe using Streams may result readable
+Looks like _CODE_ needed needed previous version
+Either unnecessary forgot new constructors
+please move METHOD_4 loop
+Id move anonym inner class regular static class avoid capturing unnecessary references In addition Id first call ssubset call METHOD_2
+VAR_1 could final
+suggestion return Integercomparethisscore oscore
+mechanic extraction enough pass VAR_1
+METHOD_2 是否可以改成 static method
+pls add ignore
+put finally
+You need wrap new VAR_8
+Or even simpler java Iterablestransformbranches VAR_5 UtilfixNullVAR_5getName
+Shouldnt return VAR_2
+Actually renaming METHOD_1 METHOD_2 Random class might good idea I left _CODE_ I recoded _CODE_ stuff I really didnt knew
+rm public
+remove log altogether clearly added debugging purposes I think bad practice use log debugging instead Android Studios debugger breakpoints ftw smile
+I think I like 20 better exercise key migration code
+Looks like METHOD_2 call already present _CODE_ Do need
+nit maybe merge lines formatting looks bit strange
+Is line something
+static import METHOD_2 Also use METHOD_2string Context class loader fine
+remove null since null instanceof TYPE_4 return false
+matter style choices I tend think last part implemented filter stream parameters stream
+TYPE_4 3 places
+Can please add _CODE_ check
+_CODE_ _CODE_ _CODE_
+Same TYPE_5 closeable using trywithresources statement closing object maybe good idea
+VAR_4 always _CODE_ It necessary set constructor neither sending wire
+Dont rename parameter Its unused rename unrelated commit
+Is obvious pass config class intrinsic _CODE_ instance Maybe better done using static methods better readability For example Well one constructor two static methods private _CODE_ VAR_2 TYPE_2 extends _CODE_Config configTYPE_2 boolean VAR_4 thisVAR_2 VAR_2 thisconfigTYPE_2 configTYPE_2 thisVAR_4 VAR_4 public static VAR_1 _CODE_ VAR_2 TYPE_2 extends _CODE_Config configTYPE_2 return new VAR_1 public static VAR_1 _CODE_ VAR_2 TYPE_2 extends _CODE_Config configTYPE_2 return new VAR_1
+If source copy candidate _CODE_ value would return false even target _CODE_ value also happens _CODE_ value Can scenario happen want Or really want _CODE_
+necessary
+For edge tollyes tollhgvyes This would result _CODE_ _CODE_
+good perform expensiveblocking operations constructor could call run instead
+buildcreate call duplicated
+Redundant cast
+Same
+add final
+minor make static
+Why iterate groupsvalues avoid list allocation Or want array structure better performance If sure youre winning something big youre iterating values constructor TYPE_5
+Can change VAR_14 VAR_16 VAR_16DocumentRefnew directly stream even format thing
+Could move also brach created _CODE_ _CODE_
+Das darf hier nicht sein der controller räumt nur seine view auf und aendert nicht die vom parent
+METHOD_1 METHOD_2
+private
+No check missing resource
+Could use get instead METHOD_2
+Nit It necessary convert value String
+And karreiro mention lamdas
+Can add two constructors TYPE_10 TYPE_10 default constructor backwards compatibility TYPE_10ResourceLoader new one used I think resource loader property VAR_5 factory rather method argument parsing VAR_5 element In theory could reuse TYPE_10 instance parsing VAR_5s within one VAR_5set dont currently
+poolid
+Why synchronized block within try part trycatch block Shouldnt catch part also run synchronized block
+Why need check We one version _CODE_ message would 3_0
+Static
+Shouldnt inside
+This isnt really performancesensitive
+Is intended return empty VAR_1 object even exception occurs
+please move _CODE_ _CODE_ _CODE_ top class TYPE_3
+ever happen Wont _CODE_ throw _CODE_ always reference found
+By eliminate _CODE_
+_CODE_ title says Selenium version updated method added well
+Since categories never change would better make value VAR_1 unmodifiable start
+java adtest _CODE_ Invalid width flite unit passed Make sure provide width parameter numeric value mwcontenttext error And
+We dont need offset nulls
+VAR_5 null statement always evaluate true If would loop would happen
+Maybe __unknown__ consistency Although Id prefer see _CODE_ class name
+Some nitpicking change I usually see pattern written way VAR_1 null VAR_1 METHOD_3 VAR_2 return VAR_1booleanValue
+ato What passed original request message request _CODE_ instead linking contexts
+I think 1st check needed method doesnt contains Consumes observer called
+Nit maybe use VAR_1 null return 0 Original code
+You break loop address found
+I think mean d0
+done
+The marshallable check happen _CODE_ enabled _CODE_ VAR_2 might replicated another node _CODE_ Im sure way serialization happen user thread cases least async marshalling disabled _CODE_ probably ok
+We replace hashcode implementation Objectshash
+This iteration parsedvalues Similar many places _CODE_
+Id put outside 1 anyway need locks since temp dir wont change shouldnt anyway
+I think need non _CODE_ version TYPE_3 VAR_1
+This needs undone
+You put much white spaces empty lines
+I suggest add initialization declaration instead line 148 private _CODE_ _CODE_ new TYPE_3
+This replaced thiscolor _CODE_
+remove final
+Why keep VAR_13 remove _CODE_ I assume removed latter client protocol changes take care serialization etc Is different permissions
+use _CODE_ VAR_1 thus use VAR_1paramTypeHints well
+entrylength _CODE_
+Nit This debug level right
+add _CODE_
+please move line
+pretty sure _CODE_ would cause runtime exceptions I think set converter dont know class
+Remove exceptions since theyre never thrown method
+We probably use try resources At minimum wed need METHOD_5 finally block Something like public static boolean _CODE_ VAR_1 String VAR_2 throws TYPE_1 boolean VAR_4 false TYPE_3 logTYPE_3 LoggingUtilgetInServerLogTYPE_3VAR_1 try TYPE_2 VAR_3 FilesnewTYPE_2logTYPE_3 String line line VAR_3readLine null linecontainsVAR_2 VAR_4 true break return VAR_4
+Return buffer pool
+could sync method
+remove VAR_3
+I would move inside finally block method
+Lets try sticking current style add final use return value
+After shutting Executor explicitly set null friendly _CODE_
+_CODE_
+Better check check non empty null string _CODE_ Name cant null blank
+Why new TYPE_1
+I feel one liner hurt readability please use previous syntax clarity
+If move allocation constructor w write set full zeroes could appear valid In previous code _CODE_ would occur case missed call setentryid Recently I caught kind error playing ledger handleadv
+This definitely leftover must removed
+VAR_1 set setup time If somethVAR_1g goes wrong Drill might call METHOD_1 callVAR_1g setup For safety maybe check VAR_1 null
+Why removed w1 w2 elements I think VAR_1 list could String VAR_1 r1 w1 r2 w2 r3
+_CODE_
+Of 53 class errors I think 53300 might transient
+Can make TYPE_5 TYPE_4 avoid wrapping dont mind branches least master Thanks
+Missing _CODE_
+The closing already done driver No need repeat
+need new String others
+To avoid repeatedly adding offsets could something like following java int end thisoffset prefixlength int thisoffset j prefixoffset end ij I completely sure syntax
+better instead per flavor
+Why get rid TYPE_1 either _CODE_
+METHOD_3 already writes attribute
+As used single place public void start I think body public void _CODE_ VAR_1 moved directly
+Just let regular array bounds checking
+Make protected
+Does make check previous line unnecessary
+Did mean
+I see reason invoking listeners nothing VAR_1
+I would even bother printing stack trace It wont us good see
+_CODE_ return null element present
+redundant
+You could use _CODE_
+Unnecessary else You return VAR_4 outside statement
+No need VAR_5 unless really want throw _CODE_ instead propagating null isnt instanceof _CODE_
+The TYPE_3 cast useless Could confirm
+factor code Its repeated quite places
+I think separate test VAR_11 _CODE_ make sure VAR_5 get generated Either VAR_5 get contents VAR_11 assert VAR_5 expect
+Consider clarifying current expected values exception message
+If use one parameter two
+Seen _CODE_
+parameter annotated Nullable
+I failed anticipate could move edits two string directly That would easier track
+This line unnecessary since using trywithresources syntax
+This method static
+I dont like static much causes sort issues including testing sets states
+This map strings TYPE_3 calling equals replaced code Were gaining anything change
+yes right already fast lets give cpu time METHOD_2
+player state setter mag niet public zie branch 145 clear _CODE_ als player gewonnen en removeCurrentPlayerFrom_CODE_ als player verloren
+dowhile avoid checking 2 conditions true _CODE_
+If default false remove
+_CODE_ class compile without changes
+This method public whats point
+Make constructor public
+Youre returning METHOD_6 terminal operation called far METHOD_6 still progress isnt
+Same Seems info
+_CODE_ Make VAR_1 static method rule
+We already TYPE_2 server side Any reason dont inject one
+Use final possible
+We dont check _CODE_ _CODE_ null I assume methods never return null To consistent _CODE_ never return null
+unary minus would make prettier
+In general treat input parameters final The calling code could expect VAR_5 still null called method
+Possibly check entire screen stack
+vilchikelena copypaste issue
+What block
+missing new line
+minor parentheses denominator required
+minor remove
+We shouldnt use Systemoutprintln Systemouterrprintln anywhere apart _CODE_ _CODE_ If indication serious problem throw exception
+Shouldnt part _CODE_ method
+I dont think need
+nit return String VAR_2
+used
+need _CODE_
+What whole point method You already static method set version accepts null You also another static method checks given _CODE_ version lower existing one
+minor parentheses around VAR_3 required
+Why two variations method needed In place TYPE_5 expected TYPE_6 caught _CODE_ get examined
+sounds like expected obtained values swapped
+Accidental copy paste error
+Use 4 spaces instead tabs
+This class ideally immutable I see convenience add methods computing sizes least make package private order reduce class public interface immutable part
+Perhaps would better return null instead throwing exception Nothing really gone wrong And wouldnt need empty catch block
+The jam moved deleted Deleting remove lineups etc entered jam
+METHOD_2 enough return current instrumented applications contex
+Confused change signature keeping field TYPE_1 _CODE_ boolean methods null check inside body
+Forgive Im mistaken youre prepopulating positions optional particularly sparse Could store _CODE_ Float use _CODE_ method return either float position null wrap optional actually returned
+Extra whitespace forming neat little columns makes code arguably _CODE_ read inarguably harder write maintain turning future singleline changes multiline mostly whitespace changes _CODE_ _CODE_
+Please remove line VAR_5 closed automatically since used try resources
+Since replaced _CODE_ contains also remove METHOD_11 class contains takes _CODE_
+class member variable null default typically dont init null value
+nan
+put try finally bufrelease block
+Can define VAR_1 public static final String CRED_DIR reused METHOD_1 _CODE_ Thanks
+nit parens unnecessary
+minor thing broken two lines
+breaks backwards compatability someone incorrectly extends public non final class name clashes _CODE_
+_CODE_ go foreach final TYPE_3 range VAR_1
+TYPE_2 redundant
+method calls I guess moved existing setter better class structure Nevertheless fix well since already change
+We still need
+No need result variable
+TYPE_2 runtime exception need declare
+Is backslash purpose
+see suggestion TYPE_6 constructor
+Usually message comes VAR_2 Though consider making change convenient reality making things confusing Please revert
+similarly
+The oneargument constructor called instead thistrue
+semicolon much
+selfreference I accidentally This would cause _CODE_ classification created example variable _CODE_ right case Could please fix _CODE_ superperformeventcontext
+Keep VAR_4 last parameter consistency
+_CODE_ Client side VAR_1 tend cause trouble workaround use Like
+length unused
+Why injecting VAR_4 directly
+Can convert using ternary operator _CODE_ _CODE_ new _CODE_ new _CODE_ It makes code less verbose
+No change needed _CODE_ still return false set Also new method _CODE_ unused
+Better packageprivate protected implies expect called overridden subclasses case
+Missing type
+Neste caso para poder reaproveitar classe para varias VAR_2s ideal seria passar VAR_3 construtor que nao muda e VAR_2 _CODE_ Isso permitiria fazer uma chamada em lote sem recriar objeto varias vezes
+So case youre returning array type
+need null check
+No final private final parameters
+Cosmetic please align path parameter annotation
+This requires always _CODE_ To back compatible move setter
+static import
+formatting seems bit file lines gettersetter methods
+Please add null check case _CODE_ fails early
+Checkstyle missing space end
+I assume meant removed
+If replacing often message exceptions type maybe Stringformat part extra constructor exception
+suggestion throw new _CODE_ TYPE_1 _CODE_
+_CODE_ instead _CODE_
+since already specific value object property values think super strange fall back backing array get would propose _CODE_ method instead
+Please use _CODE_ _CODE_ fix indents
+What VAR_1 empty point
+Is smarter way
+_CODE_
+Please revert I know _CODE_ warning tell Java create array generically reflection literally know size beforehand
+nit check _CODE_ first reduce overhead case race
+Very minor bit redundant
+nit return block get rid else
+This private dont want resource attribute set externally
+Add bronze end instead middle
+Unnecessary semicolon
+Please annotate Nullable well
+Instead assign return return last statement
+dont know used extensions things public remain
+Put METHOD_4 finally block attempt always made METHOD_4 VAR_2 even METHOD_1 fails If closing VAR_2 fails theres really anything VAR_1 move
+The _CODE_ mandatory
+Nullable annotation implies argument could null Correct fix keep Nullable annotation following return VAR_2 null VAR_2getSqlName null
+Please change call private method METHOD_2 single entry point
+Remove unwanted log make logical
+This breaks contract _CODE_ allows key null _CODE_ throw _CODE_
+appears useless check null still used
+drop portion
+Mobile
+I think logic reside elsewhere service controller class A _CODE_ usually properties getters setters Make sure well unit test logic
+purpose line
+ok Shouldnt return null empty string
+nit nullable annotation VAR_1
+This made public sake test Please revert change fix test see
+I would extract weldworkers constant TYPE_3
+If dont clear better set null two sets migration VAR_2 means next time youll reopen _CODE_ migration happen override possible different values added meantime user VAR_3 map
+Move line logging error case error get logged
+Do defensive copy VAR_2 new instance Map
+nit merge lines
+This actually isnt optimization _CODE_ calls new Doubled Lets remove change Since class deprecated I want minimize changes wherever possible
+Deprecate
+What _CODE_ null
+Den cast auf TYPE_2 ist hier überflüssig
+Shouldnt line else clause Wdyt
+You even go step one suggestion _CODE_
+Get By Id need additional query parameters since get single command Id
+This VAR_1 could work search first process VAR_1 data inserted 4th
+nit remove
+another place variant METHOD_1 may need event metadata eventually
+Why pass VAR_3 _CODE_ VAR_1 deprecated
+We using tabulator indentation code Please replace spaces tabulator
+Same question
+This method needs enhance I mean If first true code bellow always false Also I think Systemoutprintnull replaced log
+One empty line much
+What closed
+Wouldnt VAR_6 nicer separate line final
+I see reason VAR_1 parameter thVAR_4 method VAR_4 private VAR_4 invoked private field VAR_4 passed There VAR_4 place VAR_4 invoked opinion thVAR_4 parameter removed method use private field VAR_1
+suggestion
+Since label text static set _CODE_ instead text Rebinding instead text Title
+Have intentionally omitted index check
+get Btw since VAR_1 plain check may end hoisted youd never see turning null
+access needs synchronized
+set null create default _CODE_
+immediately calling _CODE_ METHOD_9
+Also check deep copy instead METHOD_2 setters
+I think invalid order groups The way implemented test creates relation 2 3 4 And calling _CODE_ VAR_8 VAR_6 false tries import members VAR_6 VAR_8 This causes cycle I sure detect current implementation Also test passes error I pointed suggestion groupsManagerBl_CODE_ VAR_6 VAR_8 false
+VAR_8 null would best invert equals check java bucketsequalsVAR_8
+suggestion _CODE_ VAR_2 new TYPE_6 _CODE_ TYPE_5 VAR_3 METHOD_2
+Could omit classname since static import
+If check fails converted easy read message I assuming every client know meaning using part code propagate exception message maybe confused
+TYPE_1 calling get
+_CODE_
+Rather signaling condition via exception maybe better approach would globally unique instance signals hole
+It looks like need modify TYPE_1 simply take Map constructor That way simpler would also mean attribute values including userprovided ones beyond available _CODE_ would represented resource representation
+Its probably bad idea checking exception messages first place
+METHOD_1 contains
+INT_1 per page inconsistent pageable tables _CODE_ see _CODE_TablePanel using 25 default I suggest using Also happens someone pages around Are edits retained Finally _CODE_ wise inconsistency tables look like Selezione_988 access panel looks like Selezione_989 I understand using _CODE_TablePanel editable pageable view hard least look Also really need page The roles presented random order 1000 roles one Would hard time finding specific one lest order alphabetically Would hard time locating active rules Wondering one made non pageable assumption roles many nmco opinions
+_CODE_ 你这里直接写 new _CODE_ 不就好了
+Reverse operands avoid negation maybe Would look nicer
+Can simplify one line Or youre going readability eliminate local variable return everywhere
+Minor Its better use _CODE_ assertions
+selsize 1
+fan shorthand one letter variable names would prefer descriptive var name instead single character
+These arguments go line
+Maybe make clear supposed srg name naming _CODE_ methods
+Please use Guava _CODE_ error message
+remove line
+This probably signature VAR_3 first VAR_3 second VAR_3 rest
+We dont need See supersupersuper class public _CODE_ source source null throw new _CODE_ source thissource source
+Add worker host log message
+Id rather _CODE_ applied substring
+I dont understand actually used I see METHOD_5 bitset VAR_3 VAR_4 records space used
+else isnt necessary anymore
+minor I think makes sense call method _CODE_
+You remove line MetadataMETHOD_2 already reuses METHOD_4 METHOD_2 _CODE_
+When VAR_2 null Isnt always set something open Also need check VAR_1
+I feel _CODE_ check needed The loop take care case
+Dont spam final keywords code part changeset
+The trywithresources takes care closing right
+minor misconfiguration
+lukaszszewc Id rather propose java _CODE_ verifymock timeout50oneArg1 _CODE_ verifymock timeout50oneArg2 I agree however name test wrong
+Why splitting two rows
+Is formatting change
+This removed You already
+Is calling METHOD_2 After method good practice What theres test doesnt need METHOD_2 mocks
+Why declare GLOBAL_ID long
+This one still static
+It seems like indentation incorrect
+Similar ie method body return _CODE_ _CODE_
+Add _CODE_ instead
+If keep sorting Id prefer using _CODE_ sorts input elements efficiently
+For readability sake two increments use atomic method call
+Perhaps INT_1 could constant
+Message needs changed What Retrofit Do care people overwrite I dont breaks _CODE_ desire
+Weird youre calling _CODE_
+Instead adding added entry handlers bean _CODE_ ones added Adding via activator 19ext module bit hack
+I see VAR_7 isnt used Is check VAR_3 cast make sure connection provided
+Waarom voeg je de index aan de naam toe De lijst toch op dezelfde volgorde als de index
+suggestion return _CODE_ thisid thisversion _CODE_ _CODE_ thinks better
+Can use _CODE_ _CODE_ VAR_2
+looks like dont need TYPE_3 TYPE_4
+Maybe name VAR_1
+Aha _this_ singleproperty indexes retain format Very good
+VAR_3 already escape String need escape
+nit Suggest renaming VAR_10 getter well
+Just move label VAR_7 properties
+public static final redudant
+dont wait
+I think got inverted
+remove VAR_2
+I think loop duplicates check doesnt really speed 0 case
+Perhaps swap branches drop repeated return
+nit need public
+static import
+cuenyad add final
+It _CODE_ make METHOD_2 return TYPE_1 Less likely break future case support implementations
+minor Split two asserts add message showing offending value actually
+Can void
+This method longer throws TYPE_4
+nit lets move assignment
+Although using METHOD_2 could efficient I would suggest using plain _forEach_ keep behaviour consistent
+If list initialized check unnecessary
+primitive boolean cannot compared null
+You create _CODE_ method later class This change unnecessary use method
+あごめんなさいSafeAsyncTaskはInjectをする必要がありませんnew TwitterAuthorizationTaskexecuteで問題ないです もう一つのSafeAsyncTaskについても同じですね
+I think specific _CODE_
+I think java VAR_1 null VAR_1size 0 return null
+VAR_4 VAR_3
+_CODE_
+make public use _CODE_ _CODE_ 0 method calls
+extra line
+Better private
+There exists _CODE_
+Probably best reverse _CODE_ Even input isnt Nullable either need handle null input without _CODE_ remove annotation
+For case TYPE_3 contain VAR_2 need adding new method
+There missing
+METHOD_2 METHOD_3 together
+Repository cannot null
+Initializing null redundant
+Just thishome enough
+Could _CODE_
+I think typo thishigh thishigh thishigh otherhigh
+Cosmetic Could p renamed path please Thanks
+jdotcms please instead METHOD_6 lets change error trying register something _CODE_ want noisy know reason
+Same remark _CODE_ introducing Locus deep cgeo
+Use
+allow type null It doesnt make sense take value without type info probably add precondition check forbid
+I think return null timeout From I see null TYPE_1 supported occurs normally customizations
+Please consider adding overridden version _CODE_ int Logger constructor accepts Duration encapsulate type conversion
+Oops Please remove Systemoutprintln call
+hrmmm required Will happen already cluster teardown And redundant closing call
+VAR_1 status
+Hardcoded toast text baby
+suggestion String METHOD_1
+please fix peisun1115
+Do think use _CODE_ useful message instead _CODE_ youll get useful stack trace fails Future users might look file example write good _CODE_ test
+If use _CODE_ rather _CODE_ error messages case failed assertion actually show two things youre comparing provide helpful message
+suggestion private void _CODE_ VAR_1 TYPE_2 VAR_2
+Are final necessary Thought I heard formatting template
+throws _CODE_
+Since class _package_ protected access constructor probably _package_ protection
+Remember remove
+Dont need added VAR_2 member variable
+add finally Otherwise _CODE_ stream may corrupted cfopen METHOD_5 fail
+add precondition constructor VAR_1 nonnull since final dont need check At point might worth inlining METHOD_1 calls
+else required return
+I dont really like method public since provides backdoor around state management operations _CODE_ I understand changing visibility required move _CODE_ implementations orgmodeshapejcrfactories package But I think cleaner _CODE_ important separate package
+VAR_4 longer makes sense variable name many places
+pass null allow downstream _CODE_ passed null avoid creating TYPE_1 needed
+Remove
+Is boolean append necessary _CODE_ _CODE_ 0 would simple Please check
+empty hashmap size memory would empty hash maps often TYPE_2 Spoon model would ntimes bigger nothing I would prefer use null represent VAR_1 attribute _CODE_
+return _CODE_ _CODE_
+Leftover debug
+Is really needed
+Im pretty sure remove If necessary default state change task Just verify enablingdisabling outline still works ok
+final int
+ternary behave stated 1 annotation
+Same
+TYPE_1 required field final
+change scope issue
+It seems class Substitute also use _CODE_ usage let purpose miss
+Que es este 1
+Can wVAR_4 includVAR_4 thVAR_4 information VAR_4 VAR_4xcVAR_4ption mVAR_4ssagVAR_4
+METHOD_3 accept optional return false present
+use VAR_5 directly without VAR_9
+Can roll functionality directly TYPE_1 object start eliminate TYPE_6
+_CODE_ strange formatting glitches
+The output contain something like dependenciesaddAttributesManagerNS_ENTITYLESS_ATTR_DEF _CODE_ dependenciesaddAttributesManagerNS_ENTITYLESS_ATTR_DEF _CODE_ Disallowed crosschecks modules peformance reason dependenciesaddA_R_unixGroupName_namespace dependenciesaddA_G_unixGID_namespace dependenciesaddA_G_unixGroupName_namespace Temporary disallowed performance reason dependenciesaddA_E_usedGids
+Call _CODE_ VAR_2 0
+This method probably synchronized multiple concurrent calls stomp
+I would remove I think additional constructor meaningful addition user could increase decrease precision parsers
+I think removed null dimensions specs
+Redundant String constructor
+yep revert I check works github
+METHOD_3
+The name VAR_3 close type name How simply value Its clear type parameter
+need check
+Bit stylistic thing try keep parameter order order significance TYPE_3 operative listing VAR_2 required first line VAR_1 optional definitely goes second For bonus points could overload method another definition leaves VAR_1 passes null public listByTYPE_3TYPE_3 VAR_2 return thislistByTYPE_3VAR_2 null
+Ternary
+We need change method names descriptive
+missing
+Why throw VAR_3 let caller handle log etc
+_CODE_
+Same argument _CODE_
+I dont think VAR_2 solution A table may contain field date strings created _CODE_ locale case query fail We need set locale _CODE_ required unit tests
+No need pass VAR_2 set event As I mentioned set _CODE_ youre done
+Few lines remove 1 change 1 java final TYPE_3 VAR_3 VAR_3HandlergetTYPE_3
+Do use equals reference equality need
+Use multicatch
+return int instead TYPE_1
+What INT_1 context
+Can make one line remove brackets
+The codes spawning new thread using synchronous version METHOD_5 etc tad tricky A way reduce complexity could changing TYPE_5METHOD_5 accept Runnable _CODE_ parameter 1 At _CODE_ level simply calls java TYPE_5METHOD_5getApplicationContext _CODE_ _CODE_ false _CODE_ false 2 In underlying _CODE_ feeds accept new parameter Runnable _CODE_ invokes callback upon completion _CODE_ TYPE_5 thus need expose synchronous version feed updates
+mgsonar use early return improve readability
+The exception logged completely
+throws TYPE_1 removed
+This probably public It private original code
+wonder smart cautious last operand could replaced _CODE_ argexpression And tested something like _CODE_ output String null
+move first line method optimization
+I would move one first
+suggestion METHOD_2 Shouldnt needed retrieve index mapping The create table returns cluster state updated shard initialization async thats required
+If want make method thread safe _CODE_ null VAR_1 synchronized block
+Is also true pcursor If put correction factor
+boolean input
+This looks like copypaste typo maybe
+final
+thisthisdelegate METHOD_1
+A lot onetime variables created Please use manual fix
+The last six lines squashed return _CODE_ _CODE_
+These field declaration
+need
+It never null
+Instead declaring VAR_9 global declare initialize pass TYPE_5 look answer
+harmless call even null could use _CODE_ _CODE_
+Java _CODE_ null _CODE_remove timarkerrelease
+Seems like neither _CODE_ METHOD_4 throw TYPE_2 Is logging I changed _CODE_ print stack trace properly _CODE_ probably wouldnt necessary
+_CODE_ trim unnecessary using text _CODE_
+check seems like result must returned new new VAR_1 returned instead Wondering makes sense also _CODE_ inside constructor since seems fixed class
+This empty unnecessary I believe
+It make sense expose protected method mark Deprecated beginning Maybe remove annotation make packageprivate
+Please add final
+Seems like ought log something unlikely case may
+Raw methods throw exchanges native exception implementation generic interface methods wrap generic ones like please read
+Can call index since obvious using TYPE_5 one passed
+Why necessary replace space trim later
+This seems redundant logging current user base class
+This static
+Does nuage require metrics update path
+need nullchecked
+Dont need METHOD_2 end METHOD_1
+TYPE_1 appear needed super anymore
+The VAR_2 longer synchronized unnecessary
+Instead use something similar select see hide Java Build Path string reddeer
+Its better make listener unregister stop time instead storing boolean See instance _CODE_ implementation _CODE_
+need create VAR_3 variable
+really done check happens observer gets added METHOD_5 never gets called
+For consistency across project please remove final keyword
+Unless Im missing something quick look uses class seems like objects passed must extend TYPE_5 _CODE_ better approach implementation assuming want copy provided list keep reference would public MultiTYPE_5List extends TYPE_5 VAR_2 VAR_2 null throw new _CODE_ cannot null VAR_6 new TYPE_3VAR_2 Simpler doesnt assume objects extend TYPE_5 allows platform optimize copying TYPE_3
+Does EMPTY_SKETCHtoByteArray result empty array Currently discrepancy METHOD_1 _CODE_ looks suspicious reading code
+This stylistic preference I guess I typically use constructors assigning fields trivial things This might make sense static factory method
+What change bring Did need get test working
+Same _CODE_
+private
+1
+prefer String value VAR_5 null _CODE_ VAR_8 _CODE_ _CODE_ f VAR_5getFields VAR_8addfgetIndex value JoineronjoinVAR_8 confsetRCFileUtilREQUIRED_FIELD_INDICES_CONF value
+I would add code beginning line seperate init method instead It always best design add listeners objects _CODE_
+move assignment check first method change behaviour
+Yes I meant
+better remove statement set value user entity use VAR_4 function choose use template
+grammar
+Redundant braces
+reason behind moving call METHOD_6 configuring loggers SLF4J
+used
+move mull check null check VAR_1 ensure change behaviour
+I believe moved Test file
+nit _CODE_
+nit _CODE_ needed logging since METHOD_3 log almost never called really matter
+Redundant null check
+Just checkingboot order _greater_ zero means boot device
+Can use brackets
+Although proposed changed technically correct please revert sake readability
+You forgot call superinit
+Is supposed left
+Remove null check _CODE_ cannot return null
+Please construct default Executor using _CODE_ This makes Axon managed threads recognizable The mandatory group name could _CODE_
+Put second return else statement
+Again probably scope _CODE_ I dont think METHOD_5 statements needed
+I think check done every accept call At least behaviour consistent default VAR_1 implementation Iterable class
+This changes state instance calling _CODE_ would illegal Would make sense prevent Either _CODE_ adding check _CODE_
+Loop replaced passing collection _CODE_ suggestion _CODE_ VAR_2 new _CODE_
+TYPE_5 run time exception required part method signature Not invalid signature Sonar report _Major_ category violation
+micro optimisation need visit
+Note There two METHOD_1 methods different params class seems removed synchronized one Is purpose
+VAR_2 mutable synchronize
+Its critical shall need expose method outside instead exposing _CODE_ VAR_1 _CODE_ _CODE_
+probably test null VAR_1 either ignore preferably interpret null VAR_1 empty String
+A positive test would clearer METHOD_2 return
+Systemout please
+Why set true instead copying value VAR_1
+It would great could keep TYPE_2 separate class Fundamentally I see interface storing fetching data via _CODE_ connection
+Maybe typecheck first
+Remove public
+Checkstyle says public modifier redundant
+Could stayed final
+_CODE_
+pefernan A test checks VAR_1 invocked appreciated please
+Usually put tests _CODE_ _CODE_ class In specific case I understand tests helper methods _CODE_ specific may suit general purposed _CODE_ But preferred approach might refactoring methods helper class like _CODE_ name made
+Please add braces conditionals like
+Codacy Issue found Use explicit scoping instead default package private level
+With recent writer change I dont think needs exposed longer
+may able drop VAR_2 null check
+It private
+Why add synchronization
+cravobranco removing public access modifier makes methods invisible outside package break code using methods packages Please update _CODE_ public access modifier See
+I guess idea behind Counters critical path object monitored offer information instead pulled Counter I guess would dangerous way around eg counter fetches size channel might block actual workflow monitoring _CODE_ would effectively block dataflow In change I see pattern counter pulls METHOD_1 information filechannel In particular case METHOD_1 doesnt block future assumption might fail
+doesnt seem necessary
+parameter sequence swapped VAR_1 min correct
+VAR_10 start 4 length 11 VAR_10 Closed
+need public package local good
+looks like static
+need public nonpublic class
+Its unlikely I merge changes _CODE_
+Remove Systemoutprintln
+please refactor code bit like String line _CODE_ line null _CODE_ line null
+Shouldnt rather VAR_2 directly
+I 100 sure I think reasonable make method non static use VAR_2 class field I think made static previous implementation using Check properties rnveach please correct I wrong
+What would think whileloop VAR_2 METHOD_3 eg exhaust suitable idle VAR_2s return null cause creation new one
+position necessary add order want _CODE_ TYPE_4 _CODE_ TYPE_5
+add couple _CODE_ core method
+please reuse function wrote
+Use TYPE_1YPE_3 super TYPE_1 Same
+Is particular reason _CODE_ used instead instanceof instanceof less restrictive may better choice
+test constructor need public
+suggestion _CODE_ _CODE_
+Ah _CODE_ allows Rewrite long readable form java _CODE_ return METHOD_4 return _CODE_
+Currently dont _CODE_ role assignable config specific credentials unlike perun admin This mean always User related role So anywhere check _CODE_ without specifying user passed user let _CODE_ pass Only would filter result would separate What think stavamichal licehammer martinkuba Will need _CODE_ role accounts without User Perun I suppose always safer account contact info etc
+doesnt need public right
+private
+зачем может публично понадобиться этот метод
+_CODE_ incompatibility No
+Isnt default return type
+Remove throws TYPE_3 never thrown
