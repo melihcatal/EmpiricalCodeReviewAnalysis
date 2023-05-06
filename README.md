@@ -10,7 +10,7 @@
 
 ---
 
-In the beginning we have 1986 unique GitHub projects. The dataset contains 640671 review comments. After extracting methods _In_while_ files contain 9912793 functions and _In_after_ files contain 9970707 functions. Which makes a total of 19883500 functions. After linking the review comments to the functions we end up with 206124 functions that are associated with a
+In the beginning we have 1986 unique GitHub projects. The dataset contains 640671 review comments. After extracting methods `In_while` files contain 9912793 functions and `In_after` files contain 9970707 functions. Which makes a total of 19883500 functions. After linking the review comments to the functions we end up with 206124 functions that are associated with a
 review comment.
 
 Some filters were applied to the dataset to create the final datasets. As a result we end up with 8315 data points. More detailed information:
