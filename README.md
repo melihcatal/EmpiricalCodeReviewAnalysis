@@ -10,14 +10,15 @@
 
 ---
 
-In the beginning we have 1986 unique GitHub projects. The dataset contains 640671 review comments. After extracting methods and linking them to the review comments we end up with 206124 data points.
+In the beginning we have 1986 unique GitHub projects. The dataset contains 640671 review comments. After extracting methods _In_while_ files contain 9912793 functions and _In_after_ files contain 9970707 functions. Which makes a total of 19883500 functions. After linking the review comments to the functions we end up with 206124 functions that are associated with a
+review comment.
 
-Finally we end up with 8315 data points. Started with 10000 data points. 206124 data points. During the creation of the dataset some filters were applied.
+Some filters were applied to the dataset to create the final datasets. As a result we end up with 8315 data points. More detailed information:
 
-- Removed 20946 rows where ms and mr are the same. 206124 -> 185178
+- Removed 20946 rows where ms and mr are the same. **206124** -> 185178
 - Removed 94909 rows where rnl set has more than one comment. 185178 -> 90269
 - Removed 53889 rows where ms or mr tokens length more than 100. 90269 -> 36380
-- Removed 28065 rows where mr contains literals that are not present in the ms. 36380 -> 8315
+- Removed 28065 rows where mr contains literals that are not present in the ms. 36380 -> **8315**
 
 ---
 
