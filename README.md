@@ -37,26 +37,16 @@ The 1-encoder model is trained with the function on review _ms_ only.
 
 ## Quantitative Results
 
-### Perfect Prediction
+| Encoder    | Beam Size | Perfect Predictions | Mean BLEU-4 | Median BLEU-4 | Std Dev BLEU-4 | Mean Lev. Dist | Median Lev. Dist | Std Dev Lev. Dist |
+| ---------- | --------- | ------------------- | ----------- | ------------- | -------------- | -------------- | ---------------- | ----------------- |
+| 1 Encoder  | 1         | 13 (1.56%)          | 0.6405      | 0.6682        | 0.1992         | 0.2485         | 0.2267           | 0.1507            |
+| 1 Encoder  | 10        | 86 (10.34%)         | 0.8004      | 0.8358        | 0.1692         | 0.1405         | 0.1145           | 0.1265            |
+| 2 Encoders | 1         | 39 (4.696%)         | 0.7466      | 0.8062        | 0.2111         | 0.1963         | 0.1563           | 0.1652            |
+| 2 Encoders | 10        | 174 (20.93%)        | 0.8414      | 0.8877        | 0.1746         | 0.1175         | 0.0751           | 0.1339            |
 
-- 2 encoders 1 beam : Number of perfect predictions: 39 Percentage of perfect predictions: 4.696%
-- 2 encoders 10 beam : Number of perfect predictions: 174 Percentage of perfect predictions: 20.93%
-- 1 encoder 1 beam : Number of perfect predictions: 13 Percentage of perfect predictions: 1.56%
-- 1 encoder 10 beam : Number of perfect predictions: 86 Percentage of perfect predictions: 10.34%
+### Original Paper Results
 
-### BLEU-4 Score
-
-- 2 encoders 1 beam: Mean BLEU-4 score: 0.7465828302804252 Median BLEU-4 score: 0.806244859667643 Standard deviation of BLEU-4 scores: 0.21109152652142416
-- 2 encoders 10 beam: Mean BLEU-4 score: 0.8413821352028492 Median BLEU-4 score: 0.8877181162449961 Standard deviation of BLEU-4 scores: 0.1746417565171061
-- 1 encoder 1 beam: Mean BLEU-4 score: 0.640549641986339 Median BLEU-4 score: 0.6681666024145695 Standard deviation of BLEU-4 scores: 0.1991601981851739
-- 1 encoder 10 beam: Mean BLEU-4 score: 0.8004348076530787 Median BLEU-4 score: 0.8357923290864038 Standard deviation of BLEU-4 scores: 0.16923979934263209
-
-### Levenshtein Distance
-
-- 2 encoders 1 beam: Mean Levenshtein distance: 0.19628312500727477 Median Levenshtein distance: 0.15633423180592992 Standard deviation of Levenshtein distances: 0.1651623609796915
-- 2 encoders 10 beam: Mean Levenshtein distance: 0.11752060521633477 Median Levenshtein distance: 0.07511737089201878 Standard deviation of Levenshtein distances: 0.1338770918353428
-- 1 encoder 1 beam: Mean Levenshtein distance: 0.24845033371943762 Median Levenshtein distance: 0.22666666666666666 Standard deviation of Levenshtein distances: 0.15072091942034
-- 1 encoder 10 beam: Mean Levenshtein distance: 0.14047421962304976 Median Levenshtein distance: 0.1144578313253012 Standard deviation of Levenshtein distances: 0.12646506714807748
+<img width="797" alt="image" src="https://user-images.githubusercontent.com/46859098/236697247-3ab44877-0acb-4f1b-bbc0-e9a1d5788014.png">
 
 ## Sample Results
 
