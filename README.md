@@ -32,16 +32,39 @@ The 1-encoder model is trained with the function on review _ms_ only.
 
 ## Quantitative Results
 
+### Our Results
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46859098/236828974-4163bee2-f31d-4e1a-829b-028b05c670a7.png" />
+</p>
+
 | Encoder    | Beam Size | Perfect Predictions | Mean BLEU-4 | Median BLEU-4 | Std Dev BLEU-4 | Mean Lev. Dist | Median Lev. Dist | Std Dev Lev. Dist |
 | ---------- | --------- | ------------------- | ----------- | ------------- | -------------- | -------------- | ---------------- | ----------------- |
 | 1 Encoder  | 1         | 13 (1.56%)          | 0.6405      | 0.6682        | 0.1992         | 0.2485         | 0.2267           | 0.1507            |
+| 1 Encoder  | 3         | 42 (5.05%)          | 0.7334      | 0.7619        | 0.1785         | 0.1877         | 0.1636           | 0.1371            |
+| 1 Encoder  | 5         | 45 (5.41%)          | 0.7358      | 0.7618        | 0.1786         | 0.1815         | 0.1592           | 0.1362            |
 | 1 Encoder  | 10        | 86 (10.34%)         | 0.8004      | 0.8358        | 0.1692         | 0.1405         | 0.1145           | 0.1265            |
-| 2 Encoders | 1         | 39 (4.696%)         | 0.7466      | 0.8062        | 0.2111         | 0.1963         | 0.1563           | 0.1652            |
+| 2 Encoders | 1         | 40 (4.81%)          | 0.7466      | 0.8062        | 0.2111         | 0.1963         | 0.1563           | 0.1652            |
+| 2 Encoders | 3         | 101 (12.15%)        | 0.8003      | 0.8540        | 0.1912         | 0.1509         | 0.1083           | 0.1481            |
+| 2 Encoders | 5         | 124 (14.92%)        | 0.8192      | 0.8726        | 0.1831         | 0.1366         | 0.0945           | 0.1420            |
 | 2 Encoders | 10        | 174 (20.93%)        | 0.8414      | 0.8877        | 0.1746         | 0.1175         | 0.0751           | 0.1339            |
 
 ### Original Paper Results
 
+<p align="center">
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/46859098/236697247-3ab44877-0acb-4f1b-bbc0-e9a1d5788014.png">
+</p>
+
+## Comparison with the Original Paper
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/46859098/236834136-981be02f-42af-406f-9909-f5f558fe3101.png">
+
+<img src="https://user-images.githubusercontent.com/46859098/236834162-05a337aa-3893-41b9-ae12-d361a78839ef.png">
+
+<img src="https://user-images.githubusercontent.com/46859098/236834179-61ffefe8-3823-4ddf-a70c-3fb11a0a837f.png">
+
+</div>
 
 ## Sample Results
 
