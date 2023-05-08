@@ -34,9 +34,14 @@ The 1-encoder model is trained with the function on review _ms_ only.
 
 ### Our Results
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/46859098/236828974-4163bee2-f31d-4e1a-829b-028b05c670a7.png" />
-</p>
+<div align="center">
+  <img width="326" alt="image" src="https://user-images.githubusercontent.com/46859098/236836949-7fe57509-92a5-4ce1-afda-2132e9dfd9b6.png">
+
+<img width="319" alt="image" src="https://user-images.githubusercontent.com/46859098/236836990-ef0bd028-1e11-47c3-8244-d3f7bbd015a9.png">
+
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/46859098/236837013-77b47764-40e8-4394-a6b5-fd973de5c9db.png">
+
+</div>
 
 | Encoder    | Beam Size | Perfect Predictions | Mean BLEU-4 | Median BLEU-4 | Std Dev BLEU-4 | Mean Lev. Dist | Median Lev. Dist | Std Dev Lev. Dist |
 | ---------- | --------- | ------------------- | ----------- | ------------- | -------------- | -------------- | ---------------- | ----------------- |
@@ -58,11 +63,11 @@ The 1-encoder model is trained with the function on review _ms_ only.
 ## Comparison with the Original Paper
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/46859098/236834136-981be02f-42af-406f-9909-f5f558fe3101.png">
+<img width="315" alt="image" src="https://user-images.githubusercontent.com/46859098/236836727-55939ae7-8c19-4802-9afa-3902d948e803.png">
 
-<img src="https://user-images.githubusercontent.com/46859098/236834162-05a337aa-3893-41b9-ae12-d361a78839ef.png">
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/46859098/236836820-9b261c55-9059-44b6-968e-07c0b165d31b.png">
 
-<img src="https://user-images.githubusercontent.com/46859098/236834179-61ffefe8-3823-4ddf-a70c-3fb11a0a837f.png">
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/46859098/236836857-5ece2b8b-8278-41d3-a644-a9aa6a89a296.png">
 
 </div>
 
