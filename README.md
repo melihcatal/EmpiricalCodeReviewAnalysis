@@ -28,12 +28,7 @@ The 1-encoder model is trained with the function on review _ms_ only.
 ## Results
 
 - The 2-encoders model performs better than the 1-encoder model.
-- Overall results are not as good as the results in the paper.
-  - In the paper 1-encoder model with the beam size of 1 achieves 2.91% perfect prediction rate. In our experiment, the 1-encoder model with the beam size of 1 achieves 1.5% perfect prediction rate.
-  - In the paper 1-encoder model with the beam size of 10 achieves 15.76% perfect prediction rate. In our experiment, the 1-encoder model with the beam size of 10 achieves 10.34% perfect prediction rate.
-  - In the paper 2-encoders model with the beam size of 1 achieves 12.16% perfect prediction rate. In our experiment, the 2-encoders model with the beam size of 1 achieves 4.7% perfect prediction rate.
-  - In the paper 2-encoders model with the beam size of 10 achieves 30.72% perfect prediction rate. In our experiment, the 2-encoders model with the beam size of 10 achieves 20.93% perfect prediction rate.
-- This difference may be due to the difference in the dataset. The paper uses the dataset from both the Gerrit and the GitHub which creates a total of 17194 training data. However, our experiment uses the dataset from the GitHub only which creates a total of 8315 training data. Also the paper uses 2566 different GitHub projects while our experiment uses 1986 different GitHub projects.
+- The findings in our study are consistent with those presented in the paper, although they are not identical and do not achieve the same level of quality. It should be noted that the differences between them are understandable, as they may be due to the difference in the dataset. Specifically, the paper uses a dataset consisting of both Gerrit and GitHub data, which results in a total of 17,194 training data. In contrast, our experiment only uses data from GitHub, resulting in a total of 8,315 training data. Additionally, the paper uses 2,566 different GitHub projects, while our experiment uses 1,986 different GitHub projects.
 
 ## Quantitative Results
 
