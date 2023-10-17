@@ -3,6 +3,7 @@
 
 **Related Work:** [Rosalia et al.](https://doi.org/10.48550/arXiv.2101.02518) previously explored automated code review, specifically revising code based on comments, utilizing a dataset of 17K samples to map original to revised code. Our project critically evaluates and compares our results with their findings, emphasizing the potential for refining automated code review techniques.
 
+
 ## Datasets
 
 - **ms_mr_rnl dataset with mapping:** (Functions before, functions after, comments, map) : https://drive.switch.ch/index.php/s/RATgEwy6pluXzyx
@@ -82,3 +83,7 @@ The 1-encoder model is trained with the function on review _ms_ only.
 
 _Using 1 Beam_
 <img width="1047" alt="image" src="https://user-images.githubusercontent.com/46859098/236647273-8dfcf692-7ca5-483c-8805-21accad00efc.png">
+
+## Presentation
+
+Final presentation can be found [here](https://drive.switch.ch/index.php/s/Sq86SLpada0W7Fy)
