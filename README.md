@@ -1,3 +1,8 @@
+# An Empirical Study of GitHub code review tool
+**Introduction:** This study delves into the rich data reservoir of GitHub's code review tool, aiming to preprocess and harness this data for training automated code generation models, enhancing the software development process.
+
+**Related Work:** [Rosalia et al.](https://doi.org/10.48550/arXiv.2101.02518) previously explored automated code review, specifically revising code based on comments, utilizing a dataset of 17K samples to map original to revised code. Our project critically evaluates and compares our results with their findings, emphasizing the potential for refining automated code review techniques.
+
 ## Datasets
 
 - **ms_mr_rnl dataset with mapping:** (Functions before, functions after, comments, map) : https://drive.switch.ch/index.php/s/RATgEwy6pluXzyx
